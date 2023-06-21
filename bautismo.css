@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.col-9{
+    width: 1000px !important;
+    margin: 0 auto;
+}
+.tabla{
+    color: #fff;
+}
+.boton{
+    background: transparent;
+    border: none;
+    border-radius: 10px;
+}
+.icono-2{
+    width: 45px;
+    height: 45px;
+}
+
+.tabla{
+    width: 100vh !important;
+}
+.btnhover:hover{
+    transition: all 0.5s !important;
+    color: gray !important;
+}
